@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simpleTimer</string>
+    <string name="key_preference_timer">pTimer</string>
+</resources>
